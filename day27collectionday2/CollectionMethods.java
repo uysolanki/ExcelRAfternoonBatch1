@@ -29,6 +29,9 @@ public class CollectionMethods {
 	rj.add("Jaipur");
 	rj.add("Bikaner");
 	rj.add("Jodhpur");
+	rj.add(null);
+	rj.add(null);
+	rj.add(null);
 	
 	//System.out.println(rj);
 	
